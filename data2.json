@@ -99,6 +99,7 @@
           "anilist_id": 16498,
           "season_number": 1,
           "title": "Shingeki no Kyojin",
+          "display_title": "Temporada 1",
           "episodes": [
             {
               "episode_number": 1,
@@ -1198,6 +1199,7 @@
           "anilist_id": 20958,
           "season_number": 2,
           "title": "Shingeki no Kyojin Season 2",
+          "display_title": "Temporada 2",
           "episodes": [
             {
               "episode_number": 1,
@@ -1709,6 +1711,7 @@
           "anilist_id": 99147,
           "season_number": 3,
           "title": "Shingeki no Kyojin Season 3",
+          "display_title": "Temporada 3",
           "episodes": [
             {
               "episode_number": 1,
@@ -2280,6 +2283,7 @@
           "anilist_id": 104578,
           "season_number": 4,
           "title": "Shingeki no Kyojin Season 3 Part 2",
+          "display_title": "Temporada 3 (Parte 2)",
           "episodes": [
             {
               "episode_number": 1,
@@ -2757,6 +2761,7 @@
           "anilist_id": 110277,
           "season_number": 5,
           "title": "Shingeki no Kyojin: The Final Season",
+          "display_title": "Temporada 4",
           "episodes": [
             {
               "episode_number": 1,
@@ -3481,6 +3486,7 @@
           "anilist_id": 131681,
           "season_number": 6,
           "title": "Shingeki no Kyojin: The Final Season Part 2",
+          "display_title": "Temporada 4 (Parte 2)",
           "episodes": [
             {
               "episode_number": 1,
