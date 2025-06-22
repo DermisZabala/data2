@@ -4077,6 +4077,7 @@
           "anilist_id": 113415,
           "season_number": 1,
           "title": "Jujutsu Kaisen",
+          "display_title": "Temporada 1",
           "episodes": [
             {
               "episode_number": 1,
@@ -5175,8 +5176,6 @@
         },
         {
           "anilist_id": 145064,
-          "season_number": 2,
-          "title": "Jujutsu Kaisen 2nd Season",
           "episodes": [
             {
               "episode_number": 1,
@@ -6144,7 +6143,10 @@
                 }
               ]
             }
-          ]
+          ],
+          "display_title": "Temporada 1",
+          "title": "Jujutsu Kaisen",
+          "season_number": 1
         }
       ]
     }
